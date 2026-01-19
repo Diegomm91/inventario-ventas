@@ -1,0 +1,11 @@
+date,product,category,quantity,unit_price,total_revenue
+2024-01-01,Product A,Electronics,5,100,500
+2024-01-01,Product B,Furniture,2,250,500
+2024-01-02,Product A,Electronics,3,100,300
+2024-01-02,Product C,Electronics,1,150,150
+2024-01-03,Product B,Furniture,4,250,1000
+2024-01-03,Product D,Office,10,10,100
+2024-01-04,Product A,Electronics,2,100,200
+2024-01-04,Product C,Electronics,2,150,300
+2024-01-05,Product B,Furniture,1,250,250
+2024-01-05,Product D,Office,5,10,50
